@@ -1,0 +1,10 @@
+app: 
+  port: 8000
+
+postgres:
+  driver: postgres
+  host: ""
+  port: 3360
+  username: root
+  password: pass1234
+  database: postgres
